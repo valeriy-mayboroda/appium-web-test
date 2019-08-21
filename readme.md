@@ -12,6 +12,7 @@
 * Download and install [Appium](http://appium.io/)
 * Update env variable 'Path'
 * Create and run android emulator device (see dependencies in test class)
+* Set env variables: siteLogin, sitePassword for authentication in app
 
 ### Clone project and run tests
 
